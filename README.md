@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning fastapi
 - 👯 I’m looking to collaborate on any one
 - 💬 Ask me about anything
-- 📫 How to reach me: https://www.linkedin.com/in/vishwa-k-b50812253/
+- 📫 How to reach me: vishwakajagar642@gmail.com
