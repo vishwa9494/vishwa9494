@@ -1,4 +1,19 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![MasterHead](https://i.pinimg.com/originals/8f/d6/ef/8fd6ef2fd6aa31c15b938a575804e3bf.jpg)]
 <h1 align="center">Hi 👋, I'm vishwa k</h1>
 <img align="right"  alt="Coding" width="400" src="https://graphicriver.img.customer.envatousercontent.com/files/437020744/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=590&s=6eac0c18f3fb77b9886e618d265bc19f">
@@ -21,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishwa-k-b50812253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishwa-k-b50812253" height="30" width="40" /></a>
-<a href="https://instagram.com/vishwa_s_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishwa_s_k" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/vishwa__s___k?igshid=zguzmzm3nwjioq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/vishwa__s___k?igshid=zguzmzm3nwjioq==" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishwakajagar91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishwakajagar91" height="30" width="40" /></a>
 </p>
 
