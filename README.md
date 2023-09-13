@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on **Fullstack web development**
 
-- 🌱 I’m currently learning **fast-api,react**
+- 🌱 I’m currently learning **javascript,react**
 
 - 👯 I’m looking to collaborate on **any one**
 
